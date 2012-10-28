@@ -1,0 +1,7 @@
+xianjiang/guessnumber
+
+
+https://github.com/xianjing/GuessNumber.git
+
+---ssh的验证禁用
+git onfig --global http.sslVerify false
